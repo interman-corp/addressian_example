@@ -1,0 +1,14 @@
+{
+  "name": "addressian_example",
+  "version": "1.0.0",
+  "description": "Addressianのサンプルコード",
+  "main": "node_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
