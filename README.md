@@ -28,3 +28,7 @@ node node_example.js
 
 1. Google Apps Scriptのプロジェクトを作成し、`gas_example.js`の内容を貼り付けてください。
 1. myFunctionを実行してください。
+
+### Googleスプレッドシート
+
+[こちら](https://docs.google.com/spreadsheets/d/1wBsErHUblMqEFcKWQHUpqNSuwGi8COUpyHRoTFUIylQ/edit?usp=sharing)からサンプルのスプレッドシートを開いてください。以降は、スプレッドシートに記載された説明にしたがって操作してください。
