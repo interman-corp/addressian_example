@@ -1,8 +1,8 @@
 const axios = require('axios'); // Axiosライブラリを必要とします。
 
 const apiKey = 'YOUR_API_KEY';
-const address1 = "東京都港区芝大門1-10-18 PMO芝大門3F";
-const address2 = "鹿児島県鹿児島市中央町10-6F";
+const address1 = "港区芝大門一丁目一〇番一八号 PMO芝大門3階";
+const address2 = "鹿児島市中央町10-6F";
 const url = "https://s32y6jl1f8.execute-api.ap-northeast-1.amazonaws.com/api/address_normalizer";
 const headers = {"Content-Type": "application/json", "x-api-key": apiKey};
 const body = [{address: address1}, {address: address2}];

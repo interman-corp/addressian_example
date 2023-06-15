@@ -5,8 +5,8 @@ import json
 api_key = 'YOUR_API_KEY'
 
 # 正規化したい住所
-address1 = "東京都港区芝大門1-10-18 PMO芝大門3F"
-address2 = "鹿児島県鹿児島市中央町10-6F"
+address1 = "港区芝大門一丁目一〇番一八号 PMO芝大門3階"
+address2 = "鹿児島市中央町10-6F"
 
 # 住所正規化APIのURL
 url = (

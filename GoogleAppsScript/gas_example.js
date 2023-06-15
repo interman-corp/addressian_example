@@ -3,8 +3,8 @@ function myFunction() {
     const apiKey = 'YOUR_API_KEY';
 
     // 正規化したい住所
-    const address1 = "東京都港区芝大門1-10-18 PMO芝大門3F";
-    const address2 = "鹿児島県鹿児島市中央町10-6F";
+    const address1 = "港区芝大門一丁目一〇番一八号 PMO芝大門3階";
+    const address2 = "鹿児島市中央町10-6F";
 
     // 住所正規化APIのURL
     const url = "https://s32y6jl1f8.execute-api.ap-northeast-1.amazonaws.com/api/address_normalizer";
